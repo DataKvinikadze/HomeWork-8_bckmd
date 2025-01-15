@@ -1,23 +1,4 @@
 [
-  {
-    "id": 1,
-    "date": "2025-01-14",
-    "description": "Groceries",
-    "category": "Food",
-    "amount": 50.25
-  },
-  {
-    "id": 3,
-    "date": "2025-01-12",
-    "description": "Coffee",
-    "category": "Food",
-    "amount": 4.75
-  },
-  {
-    "id": 4,
-    "date": "2025-01-11",
-    "description": "Movie Tickets",
-    "category": "Entertainment",
-    "amount": 25
-  }
+  { "id": 4, "category": "Entertainment", "amount": 25 },
+  { "id": 5, "category": "en", "amount": 10 }
 ]
